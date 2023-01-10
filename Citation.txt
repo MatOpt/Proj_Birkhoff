@@ -3,4 +3,4 @@ If you find the software Proj_BP
 useful, please cite it in you publication as follows:
 
 Xudong Li, D.F. Sun, and K.C. Toh, 
-On the efficient computation of a generalized Jacobian of the projector over the Birkhoff polytope, Mathematical Programming, 179 (2020), pp. 419¨C446,
+On the efficient computation of a generalized Jacobian of the projector over the Birkhoff polytope, Mathematical Programming, 179 (2020), pp. 419--446.
