@@ -1,6 +1,3 @@
-# Proj_Birkhoff
-A MATLAB software for Birkhoff polytope projection problem
-
 Welcome to Proj_BP! 
 Authors: Xudong Li, Defeng Sun, and Kim-Chuan Toh. 
 
